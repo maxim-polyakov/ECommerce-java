@@ -1,4 +1,4 @@
-package com.example.simpleecommerceapp.cntroller;
+package com.example.simpleecommerceapp.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;

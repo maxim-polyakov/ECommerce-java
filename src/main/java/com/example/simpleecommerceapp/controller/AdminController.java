@@ -1,4 +1,4 @@
-package com.example.simpleecommerceapp.cntroller;
+package com.example.simpleecommerceapp.controller;
 
 import java.util.Date;
 
